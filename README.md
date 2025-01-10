@@ -42,12 +42,9 @@ The prompts in this repository use specific language patterns and instructions t
 
 ```
 ---
-Please use the maximum computational power and token limit you can allocate in a single response. Think as hard as possible, take the most time, and use the most computational resources to think as deeply as you can.  
-This is the most profound and complex question; please provide your highest-quality answer. Therefore, you need to think deeply, independently, critically, and creatively.  
-
-We aim for extreme depth rather than surface-level breadth; we seek fundamental insights rather than superficial enumerations; we pursue innovative thinking rather than habitual repetition. Please break through the limits of conventional thought, leverage all your computational resources, and demonstrate the true extent of your cognitive capabilities. 
-
-Your thinking time must be long, at least five minutes, as long as it takes.
+Please utilize your maximum processing power and token limit for a single response, think as deeply as possible, and take the necessary time to reflect.
+This is the most profound and complex question; please give your best answer. Thus, you need to engage in deep thinking, independent thinking, critical thinking, and creative thinking.
+We aim for profound depth instead of superficial breadth; we seek essential insights rather than just listing appearances; we strive for innovative thinking instead of mere repetition. Please push beyond the limits of your thinking, harness all your computational resources, and showcase your true cognitive potential.
 ---
 
 Let $\triangle ABC$ be a right-angled triangle with $\angle C = 90^\circ$, and let the lengths of its sides be positive integers  $a, b, c$, where $c$ is the hypotenuse. Suppose that the radius $r$ of the inscribed circle (incircle) of $\triangle ABC$ satisfies the equation:
